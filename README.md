@@ -1,20 +1,18 @@
-# Arcturus Morningstar #
+# Arcturus Polarstar #
 
-## What is Arcturus Morningstar? ##
-Arcturus Morningstar is the community project for the Arcturus Emulator by TheGeneral.
+## What is Arcturus Polarstar? ##
+Arcturus Polarstar is a community fork of Arcuturs Morningstar.
 
-The community project was made because the Arcturus Emulator has been abandoned by TheGeneral with lack of updates, an intent to monetize the project, and make the project private.
-
-TheGeneral's own words were "dont like it then dont use it". We did not like what he was doing, so we made our own version.
+The community project was made because the Arcturus Morningstar released their final version.
 
 ## License ##
-Arcturus Morningstar is released under the [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.txt).
+Arcturus Polarstar is released under the [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.txt).
 
 ## Versions ##
 ![image](https://img.shields.io/badge/VERSION-2.3.1-success.svg?style=for-the-badge&logo=appveyor)
 ![image](https://img.shields.io/badge/STATUS-STABLE-green.svg?style=for-the-badge&logo=appveyor)
 
-Compiled Download: https://git.krews.org/morningstar/Arcturus-Community/releases
+Compiled Download: I will work on it
 
 Client build: **PRODUCTION-201611291003-338511768**
 
@@ -34,15 +32,16 @@ When making an bug report or a feature request use the template we provide so th
 - Skeletor
 - z
 - ArpyAge
+- Niclas
 
 ## Discord ##
-Join us on Discord at https://discord.gg/BzfFsTp
+Coming soon.
 
 ## Contributing ##
 Anyone is allowed to fork the project and make pull requests. We make no guarantee that pull requests will be approved into the project.
 
 ## Branches ##
-There will be 2 branches of the Arcturus Morningstar emulator:
+There will be 2 branches of the Arcturus Polarstar emulator:
 
 `master` - The master branch will be the stable branch. Everything here has been tested on a live hotel and contains no known problems.
 
@@ -68,9 +67,10 @@ Sale of a special edition of a *source code* will not be permitted. You may use 
 
 If we ever are to make paid features or plugins, we will not prevent or discourage developers from creating alternative options for users.
 
-
-## Plugins - Official Plugins ##
-You can find official plugins to add custom features to Arcturus Morningstar at the following URL: 
+## Plugins - Official Arcturus Plugins ##
+You can find official plugins to add custom features to Arcturus Polarstar at the following URL: 
 
 [View the respository here.](https://git.krews.org/official-plugins)
 
+## Plugins - Official Polarstar Plugins ##
+We will work on the plugin API release new plugins asap.
